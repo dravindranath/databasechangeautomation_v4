@@ -123,4 +123,7 @@
     <Build Include="Security\EDNAWorkforce.sql" />
     <Build Include="dbo\Tables\Dummy12.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="databasechangeautomation_v4_UAT.publish.publish.xml" />
+  </ItemGroup>
 </Project>
