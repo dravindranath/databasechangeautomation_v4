@@ -122,6 +122,5 @@
     <Build Include="Security\EDNAMaterial.sql" />
     <Build Include="Security\EDNAWorkforce.sql" />
     <Build Include="dbo\Tables\Dummy12.sql" />
-    <Build Include="dbo\Tables\Dummy13.sql" />
   </ItemGroup>
 </Project>
