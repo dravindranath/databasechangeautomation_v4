@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE uspgetquery
+﻿CREATE PROCEDURE uspgetquery_test1
                  @table_name varchar(50)
 AS
 Begin
