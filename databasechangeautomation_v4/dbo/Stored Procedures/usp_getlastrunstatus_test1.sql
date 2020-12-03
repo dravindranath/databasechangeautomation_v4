@@ -12,4 +12,5 @@ BEGIN
 	Print 'Adding sample code Test 3'
 	Print 'Adding sample code Test 4'
 	Print 'Adding sample code Test 5'
+	Print 'Adding sample code Test 6'
 END;
