@@ -8,4 +8,5 @@ BEGIN
 	Drop table dbo.Dummy_Test2
 	Print 'Adding sample code Test 1'
 	Print 'Adding sample code Test 1.1'
+	Print 'Adding sample code Test 2'
 END;
