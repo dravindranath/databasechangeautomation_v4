@@ -9,7 +9,8 @@
     [CheckedInGitStatus]      NCHAR (10)     NULL,
     [CheckedInGitStatus_Test] [nchar](10)    NULL,
     [CheckedInGitStatus_Test1] [nchar](10)    NULL,
-    [CheckedInGitStatus_Test2] [nchar](10)    NULL
+    [CheckedInGitStatus_Test2] [nchar](10)    NULL,
+    [CheckedInGitStatus_Test3] [nchar](10)    NULL
     CONSTRAINT [PK_Properties] PRIMARY KEY CLUSTERED ([PropertyId] ASC, [PropertyName] ASC)
 );
 
